@@ -1,9 +1,12 @@
-@define-color background-color #b48402;
+@define-color background-color #171717;
 @define-color border-color #706e5e;
-@define-color label #aeab94;;
-@define-color image #88A57D;
+@define-color label #aeab94;
+@define-color image #757d75;
 @define-color progress #aeab94;
 
+
+
+/* Cancel out Omarchy settings */
 window:not(:backdrop),
 window:backdrop {
     border: none;
@@ -22,7 +25,6 @@ window:backdrop #container {
     border-radius: 6px;
     background-color: @background-color;
     padding: 12px;
-    background-clip: padding-box;
     box-shadow: 2px 2px 9px 0px rgba(22, 22, 22, 1);
 
 }
