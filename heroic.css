@@ -6,7 +6,7 @@ body.heroic {
   --accent: #88A57D;
   --text-default: #CCD0CF;
   --navbar-accent: #88A57D;
-  --navbar-active-background: #333333;
+  --navbar-active-background: #525252;
   --success: #F25623;
   --success-hover: #F25623;
   --primary: #88A57D;
@@ -14,7 +14,7 @@ body.heroic {
   --danger: #aeab94;
   --danger-hover: #aeab94;
   --anticheat-supported: #F25623;
-  --anticheat-planned: #8A8A8A;
+  --anticheat-planned: #7b837b;
   --icon-disabled: #aeab94;
   --cancel-button: #aeab94;
   --anticheat-broken: #aeab94;

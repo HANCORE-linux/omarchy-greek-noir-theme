@@ -14,10 +14,10 @@
     --adw-success-fg-rgb: 23, 23, 23 !important;
     --adw-success-rgb: 242, 86, 35 !important;
 
-    --adw-warning-bg-rgb: 77, 77, 77 !important;
+    --adw-warning-bg-rgb: 136, 128, 98 !important;
     --adw-warning-fg-rgb: 23, 23, 23 !important;
     --adw-warning-fg-a: 0.8 !important;
-    --adw-warning-rgb: 77, 77, 77 !important;
+    --adw-warning-rgb: 136, 128, 98 !important;
 
     --adw-error-bg-rgb: 174, 171, 148 !important;
     --adw-error-fg-rgb: 23, 23, 23 !important;
@@ -34,7 +34,7 @@
 	/* Header bar, search bar, tab bar */
     --adw-headerbar-bg-rgb: 23, 23, 23 !important;
     --adw-headerbar-fg-rgb: 204, 208, 207 !important;
-    --adw-headerbar-border-rgb: 51, 51, 51 !important;
+    --adw-headerbar-border-rgb: 82, 82, 82 !important;
     --adw-headerbar-backdrop-rgb: 23, 23, 23 !important;
     --adw-headerbar-shade-rgb: 0, 0, 0 !important;
     --adw-headerbar-shade-a: 0.36 !important;
@@ -44,12 +44,12 @@
 	/* Split pane views */
     --adw-sidebar-bg-rgb: 23, 23, 23 !important;
     --adw-sidebar-fg-rgb: 204, 208, 207 !important;
-    --adw-sidebar-backdrop-rgb: 51, 51, 51 !important;
+    --adw-sidebar-backdrop-rgb: 82, 82, 82 !important;
     --adw-sidebar-shade-rgb: 0, 0, 0 !important;
     --adw-sidebar-shade-a: 0.36 !important;
     --adw-secondary-sidebar-bg-rgb: 23, 23, 23 !important;
     --adw-secondary-sidebar-fg-rgb: 204, 208, 207 !important;
-    --adw-secondary-sidebar-backdrop-rgb: 51, 51, 51 !important;
+    --adw-secondary-sidebar-backdrop-rgb: 82, 82, 82 !important;
     --adw-secondary-sidebar-shade-rgb: 0, 0, 0 !important;
     --adw-secondary-sidebar-shade-a: 0.36 !important;
 

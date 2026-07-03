@@ -26,5 +26,16 @@ window:backdrop #container {
     background-color: @background-color;
     padding: 12px;
     box-shadow: 2px 2px 9px 0px rgba(22, 22, 22, 1);
-
 }
+
+/* Volume / brightness bar: subtle dark track + accent edge */
+progressbar trough {
+    background-color: rgba(51, 51, 51, 0.6);
+    border: 1px solid rgba(242, 86, 35, 0.22);
+    border-radius: 3px;
+}
+
+progress {
+    border-radius: 3px;
+}
+
