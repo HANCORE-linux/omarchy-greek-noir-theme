@@ -11,8 +11,8 @@ foreground = "#CCD0CF"
 background = "#171717"
 
 # Selection colors
-selection_foreground = "#F56E0F"
-selection_background = "#171717"
+selection_foreground = "#171717"
+selection_background = "#F56E0F"
 
 # Normal colors (ANSI 0-7)
 color0 = "#171717"
