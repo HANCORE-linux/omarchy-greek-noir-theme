@@ -39,7 +39,7 @@ theme[div_line]="#333333"
 
 # Temperature graph color (Green -> Yellow -> Red)
 theme[temp_start]="#88A57D"
-theme[temp_mid]="#888062"
+theme[temp_mid]="#757864"
 theme[temp_end]="#F25623"
 
 # CPU graph colors (Teal -> Blue -> Purple)
@@ -50,7 +50,7 @@ theme[cpu_end]="#aeab94"
 # Mem/Disk free meter
 theme[free_start]="#F56E0F"
 theme[free_mid]="#aeab94"
-theme[free_end]="#888062"
+theme[free_end]="#757864"
 
 # Mem/Disk cached meter
 theme[cached_start]="#F56E0F"
