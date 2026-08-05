@@ -1,0 +1,148 @@
+# Omarchy Quattro surfaces for Greek Noir.
+# Legacy Waybar, Walker, Mako, SwayOSD, and Hyprlock files remain available
+# for Omarchy 3.8.x while these roles style the Quattro shell.
+
+[bar]
+background = "#171717"
+background-alpha = 1.0
+text = "#CCD0CF"
+active = "#F25623"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28
+
+[hyprland]
+active-border = "#706E5E"
+active-border-foreground = "#88A57D"
+
+[controls]
+normal-color = "#CCD0CF"
+normal-fill-alpha = 0.04
+normal-border-width = 1
+normal-border-alpha = 0.30
+
+hover-cursor-color = "#88A57D"
+hover-cursor-fill-alpha = 0.10
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.48
+
+focus-color = "#F25623"
+focus-fill-alpha = 0.12
+focus-border-width = 1
+focus-border-alpha = 0.82
+
+selected-color = "#757864"
+selected-fill-alpha = 0.20
+selected-border-width = 1
+selected-border-alpha = 0.60
+
+pressed-color = "#F56E0F"
+pressed-fill-alpha = 0.24
+selection-color = "#F25623"
+selection-fill-alpha = 0.35
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+xs = 2
+md = 4
+control-padding-y = 5
+panel-padding = 10
+
+[font]
+base-size = 12
+heading = 16
+icon-large = 18
+
+[popups]
+background = "#171717"
+background-alpha = 0.94
+text = "#88A57D"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 3
+
+[tooltip]
+background = "#171717"
+background-alpha = 0.94
+text = "#CCD0CF"
+border = "#706E5E"
+border-alpha = 1.0
+border-width = 1
+
+[notifications]
+background = "#171717"
+background-alpha = 0.94
+text = "#F25623"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 3
+countdown = "#F56E0F"
+
+[launcher]
+background = "#171717"
+background-alpha = 0.96
+text = "#8C9C76"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 3
+scrim = "#171717"
+scrim-alpha = 0.0
+selected-background = "#F25623"
+selected-background-alpha = 0.20
+selected-text = "#F25623"
+selected-border = "#F25623"
+selected-border-alpha = 0.88
+selected-border-width = 1
+
+[menu]
+background = "#171717"
+background-alpha = 0.96
+text = "#8C9C76"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 3
+scrim = "#171717"
+scrim-alpha = 0.0
+selected-background = "#F25623"
+selected-background-alpha = 0.20
+selected-text = "#F25623"
+selected-border = "#F25623"
+selected-border-alpha = 0.88
+selected-border-width = 1
+
+[polkit]
+background = "#171717"
+background-alpha = 0.94
+text = "#CCD0CF"
+text-error = "#F25623"
+border = "hyprland.active-border"
+border-error = "#F25623"
+border-alpha = 1.0
+border-width = 2
+scrim = "#171717"
+scrim-alpha = 0.5
+accent = "#88A57D"
+
+[lock]
+background = "#171717"
+background-alpha = 0.78
+text = "#F25623"
+placeholder = "#F25623B3"
+text-error = "#F25623"
+border = "hyprland.active-border"
+border-active = "hyprland.active-border"
+border-error = "#F25623"
+border-alpha = 1.0
+border-width = 3
+selection = "#F25623"
+selection-alpha = 0.45
+
+[image-picker]
+scrim = "#171717"
+scrim-alpha = 0.5
+text = "#CCD0CF"
+selected-border = "#F25623"
+selected-border-alpha = 1.0
+unselected-border = "#88A57D"
+unselected-border-alpha = 0.32
